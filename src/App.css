@@ -1,0 +1,184 @@
+/* App.css */
+:root {
+  --background-color: white;
+  --text-color: #333;
+}
+
+[data-theme='dark'] {
+  --background-color: #333;
+  --text-color: white;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+.resume-section {
+  margin-top: 40px;
+}
+
+.resume-entry {
+  background-color: var(--bg-secondary);
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.resume-entry h3 {
+  font-size: 1.5rem;
+  margin-top: 0;
+  margin-bottom: 10px;
+  color: var(--text-primary);
+}
+
+.resume-entry p {
+  color: var(--text-secondary);
+  margin: 0;
+}
+
+.resume-entry ul {
+  list-style-type: disc;
+  margin: 10px 0;
+  padding-left: 20px;
+}
+
+.resume-entry li {
+  color: var(--text-secondary);
+}
+
+.resume-container {
+  background-color: var(--bg-primary);
+  border-radius: 8px;
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 800px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.theme-toggle {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+}
+
+.theme-toggle-button {
+  background-color: var(--background-color);
+  color: var(--text-color);
+  border: 1px solid var(--text-color); /* Add border */
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+
+.theme-toggle-button:hover {
+  background-color: var(--text-color);
+  color: var(--background-color);
+}
+
+.App {
+  text-align: center;
+  margin: 0 auto;
+  max-width: 75%;
+}
+
+header {
+  background-color: #333;
+  color: white;
+  padding: 1rem 0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+  margin: 0;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 0 1rem;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+.section {
+  background-color: var(--background-color);
+  padding: 2rem;
+  margin: 2rem auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.portfolio-item {
+  background-color: var(--background-color);
+  padding: 1.5rem;
+  margin: 1.5rem;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+}
+
+.portfolio-item:hover {
+  transform: translateY(-5px);
+  color: var(--text-color);
+}
+
+label {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+button {
+  padding: 1rem 2rem;
+  background-color: #333;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+button:hover {
+  background-color: #555;
+}
+
+@media screen and (max-width: 768px) {
+  nav ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1rem;
+  }
+
+  nav ul li {
+    margin: 0.5rem 0;
+  }
+
+  .portfolio-item,
+  input,
+  textarea {
+    width: 100%;
+    margin: 0.5rem 0;
+  }
+}
