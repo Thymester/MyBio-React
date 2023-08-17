@@ -17,6 +17,10 @@ body {
   color: var(--text-color);
 }
 
+.header {
+  border-radius: 8px;
+}
+
 .resume-section {
   margin-top: 40px;
 }
