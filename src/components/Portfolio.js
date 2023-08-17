@@ -29,7 +29,7 @@ function Projects() {
       <div className="portfolio-item">
         <div className="project-details">
           <h3>Notepad Clone</h3>
-          <p>A clone of the Windows Notepad application built using HTML, CSS, and JavaScript.</p>
+          <p>A clone of the Windows Notepad application built using Python PyQT5.</p>
           <a href="https://github.com/Thymester/Notepad-Clone" target="_blank" rel="noreferrer">Notepad Clone</a>
         </div>
       </div>
@@ -57,21 +57,21 @@ function Projects() {
       <div className="portfolio-item">
         <div className="project-details">
           <h3>Password Generator</h3>
-          <p>A simple password generator built using HTML, CSS, and JavaScript.</p>
+          <p>A simple password generator built using Python PyQT5.</p>
           <a href="https://github.com/Thymester/Password-Generator" target="_blank" rel="noreferrer">Password Generator</a>
         </div>
       </div>
       <div className="portfolio-item">
         <div className="project-details">
           <h3>SnakeGame</h3>
-          <p>SnakeGame is a classic Snake game built using Python's pygame library.</p>
+          <p>SnakeGame is a classic Snake game built using Python's PyGame library.</p>
           <a href="https://github.com/Thymester/SnakeGame" target="_blank" rel="noreferrer">SnakeGame</a>
         </div>
       </div>
       <div className="portfolio-item">
         <div className="project-details">
           <h3>BudgetApp</h3>
-          <p>BudgetApp is a budget tracking application built using React and Redux.</p>
+          <p>BudgetApp is a budget tracking application built using React.</p>
           <a href="https://github.com/Thymester/BudgetApp" target="_blank" rel="noreferrer">BudgetApp</a>
         </div>
       </div>
