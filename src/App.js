@@ -1,6 +1,5 @@
 import React from 'react';
 import Header from './components/Header';
-import ThemeToggle from './components/ThemeToggle';
 import About from './components/About';
 import Portfolio from './components/Portfolio';
 import PrivacyPolicy from './components/PrivacyPolicy';
