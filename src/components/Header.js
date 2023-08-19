@@ -3,12 +3,14 @@ import React from 'react';
 
 function Header() {
   return (
-    <header className="header">
+    <header>
       <h1>Thymester's Bio</h1>
       <nav>
         <ul>
           <li><a href="#about">About</a></li>
           <li><a href="#portfolio">Portfolio</a></li>
+          <li><a href="#resume">Resume</a></li>
+          <li><a href="#privacypolicy">Privacy Policy</a></li>
         </ul>
       </nav>
     </header>

@@ -7,7 +7,7 @@ function Resume() {
       <div className="resume-container">
         <div className="resume-entry">
           <h3>Mixer Truck Driver - Baraga County Concrete</h3>
-          <p>Baraga, Michigan - 06/2023 - Present</p>
+          <p>Baraga, Michigan - 06/2023 - 10/2023</p>
           <ul>
             <li>Assure service is professional</li>
             <li>Drive CDL Class B truck safely to and from destination(s)</li>

@@ -3,7 +3,7 @@ import React from 'react';
 
 function PrivacyPolicy() {
   return (
-    <div className="section">
+    <div className="privacy-section" id="privacypolicy">
       <h2>Privacy Policy</h2>
       <p>This privacy policy clarifies that Thymester's Bio does not collect any personal information from visitors to this website.</p>
       
