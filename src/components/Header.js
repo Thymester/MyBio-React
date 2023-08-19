@@ -10,7 +10,6 @@ function Header() {
           <li><a href="#about">About</a></li>
           <li><a href="#portfolio">Portfolio</a></li>
           <li><a href="#resume">Resume</a></li>
-          <li><a href="#privacypolicy">Privacy Policy</a></li>
         </ul>
       </nav>
     </header>
