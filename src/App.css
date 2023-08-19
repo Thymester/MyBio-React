@@ -60,7 +60,7 @@ body {
 }
 
 .theme-toggle {
-  position: absolute;
+  position: center;
   top: 1rem;
   right: 1rem;
 }

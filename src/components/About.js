@@ -2,7 +2,6 @@
 import React from 'react';
 
 function About() {
-  // Fetch GitHub profile information here if needed
 
   return (
     <div className="section" id="about">
