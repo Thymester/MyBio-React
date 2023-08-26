@@ -31,10 +31,10 @@ function About() {
             How to reach me on Github: Thymester
           </li>
           <li>
-            Studies: Computer Engineering & Cyber Security at Michigan Technological University
+            Studies: TBA - Most likely will change to Criminal Justice due to my upcoming career change.
           </li>
           <li>
-            Languages: C#, JavaScript, Python, HTML and CSS.
+            Languages: C#, JavaScript, Python, HTML, CSS and Lua.
           </li>
         </p>
       </p>
