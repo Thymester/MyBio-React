@@ -6,6 +6,44 @@ function Resume() {
       <h2>Work Experience</h2>
       <div className="resume-container">
         <div className="resume-entry">
+          <h3>Correctional Officer - Michigan Department of Corrections</h3>
+          <p>Baraga, Michigan - 10/2023 (future) - future</p>
+          <p><i>Will be attending Academy 10/02/2023 until 11/20/2023</i></p>
+          <ul>
+            <li>Observes prisoners' or detainees' activities to detect unusual or prohibited behavior and/or potential
+                threats to the safety and security of the facility, prisoners, detainees, employees, or visitors.</li>
+            <li>Responds quickly to calls for assistance in other areas of the prison or facility as directed. Assists in
+                controlling disturbances and isolating instigators.</li>
+            <li>Observes and appropriately responds to critical incidents, such as prisoner or detainee disturbances,
+                assaults on employees, prisoners, or detainees, or other situations that threaten the security of the
+                facility. Appropriate response may include the use of firearms.</li>
+            <li>Prepares written records and reports related to the work.</li>
+            <li>Conducts routine inspections of the facility to search for contraband items, such as weapons or drugs.</li>
+            <li>Inspects locks, window bars, grills, doors, and gates for tampering.</li>
+            <li>Inspects mail for the presence of contraband.</li>
+            <li>Inspects prisoners' or detainees' quarters for cleanliness and contraband.</li>
+            <li>Searches prisoners, detainees, and their quarters for contraband, such as weapons or drugs.</li>
+          </ul>
+          <h3>Correctional Officer Academy</h3>
+          <p>Location: Sault Sainte Marie, Michigan</p>
+          <p>Duration: 8 weeks</p>
+          <br />
+          <p>Curriculum:</p>
+          <ul>
+            <li>Physical Fitness</li>
+            <li>Firearms training</li>
+            <li>Chemecal agents</li>
+            <li>Arrest and control techniques</li>
+            <li>Laws of arrest</li>
+            <li>Report writing</li>
+            <li>Inmates rights</li>
+            <li>Inmate transportation</li>
+            <li>Disciplinary process</li>
+            <li>Restraint devices</li>
+            <li>The use of force</li>
+          </ul>
+        </div>
+        <div className="resume-entry">
           <h3>Mixer Truck Driver - Baraga County Concrete</h3>
           <p>Baraga, Michigan - 06/2023 - 10/2023</p>
           <ul>
