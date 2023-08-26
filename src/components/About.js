@@ -24,7 +24,8 @@ function About() {
           <li>
             Career change: Correctional Officer at Michigan Department of Corrections
           </li>
-          <p>Currently: Mixer Truck Driver at Baraga County Concrete</p>
+          <li>
+            Currently: Mixer Truck Driver at Baraga County Concrete
           </li>
           <li>
             How to reach me on Discord: agony8602
