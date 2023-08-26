@@ -14,7 +14,6 @@ function App() {
         <About />
         <Portfolio />
         <Resume />
-        <PrivacyPolicy />
       </main>
     </div>
   );
