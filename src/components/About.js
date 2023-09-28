@@ -22,10 +22,10 @@ function About() {
         </a>
         <p>
           <li>
-            Career change: Correctional Officer at Michigan Department of Corrections
+            Current Career: Correctional Officer at Michigan Department of Corrections
           </li>
           <li>
-            Currently: Mixer Truck Driver at Baraga County Concrete
+            Formerly: Commercial Truck Driver
           </li>
           <li>
             How to reach me on Discord: agony8602
