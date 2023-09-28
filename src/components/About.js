@@ -34,7 +34,7 @@ function About() {
             How to reach me on Github: Thymester
           </li>
           <li>
-            Studies: TBA - Most likely will change to Criminal Justice due to my upcoming career change.
+            Studies: TBA - Most likely will change to Criminal Justice due to my current career.
           </li>
           <li>
             Languages: C#, JavaScript, Python, HTML, CSS and Lua.
