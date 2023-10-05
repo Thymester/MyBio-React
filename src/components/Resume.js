@@ -7,8 +7,8 @@ function Resume() {
       <div className="resume-container">
         <div className="resume-entry">
           <h3>Correctional Officer - Michigan Department of Corrections</h3>
-          <p>Baraga, Michigan - 10/2023 (future) - future</p>
-          <p><i>Will be attending Academy 10/02/2023 until 11/20/2023</i></p>
+          <p>Baraga, Michigan - 10/2023 - Present</p>
+          <p><i>Attending Academy 10/02/2023 - 11/29/2023</i></p>
           <ul>
             <li>Observes prisoners' or detainees' activities to detect unusual or prohibited behavior and/or potential
                 threats to the safety and security of the facility, prisoners, detainees, employees, or visitors.</li>
