@@ -22,7 +22,7 @@ function About() {
         </a>
         <p>
           <li>
-            Current Career: Correctional Officer at Michigan Department of Corrections
+            Studies: IT-Web Software Developer at Madison Area Technical College
           </li>
           <li>
             Formerly: Commercial Truck Driver
@@ -34,10 +34,7 @@ function About() {
             How to reach me on Github: Thymester
           </li>
           <li>
-            Studies: TBA - Most likely will change to Criminal Justice due to my current career.
-          </li>
-          <li>
-            Languages: C#, JavaScript, Python, HTML, CSS and Lua.
+            Languages: JavaScript, HTML, CSS, C#, Python, and Lua.
           </li>
         </p>
       </p>
