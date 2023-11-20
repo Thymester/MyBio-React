@@ -22,7 +22,10 @@ function About() {
         </a>
         <p>
           <li>
-            Studies: IT-Web Software Developer at Madison Area Technical College
+            Studies: Associates Degree in IT-Web Software Developer
+          </li>
+          <li>
+            Student at: Madison Area Technical College
           </li>
           <li>
             Formerly: Commercial Truck Driver
