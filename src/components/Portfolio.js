@@ -4,7 +4,74 @@ import React from 'react';
 function Projects() {
   return (
     <div className="section" id="portfolio">
-      <h2>Projects</h2>
+      <h2>My Websites</h2>
+      <div className="portfolio-item">
+        <div className="project-details">
+          <h3>SatyrnVPN</h3>
+          <p>This was a project that was going to be made in conjuction with Horizon.Pics; however, the project proved to be more money than expected. Therefore, we opted
+            to not continue forward with this project.</p>
+          <a href="https://satyrnvpn.pages.dev" target="_blank" rel="noreferrer">SatyrnVPN - Unfinished</a>
+        </div>
+      </div>
+      <div className="portfolio-item">
+        <div className="project-details">
+          <h3>VPN Tier List - Clone</h3>
+          <p>This website is a clone of the <a href="https://vpntierlist.com" target="_blank" rel="noreferrer"> VPN Tier List</a> website. The original website is owned
+          by a individual of whom I know and whom also knows of this clone being made.</p>
+          <a href="https://vpntierlist.pages.dev" target="_blank" rel="noreferrer">VPN Tier List</a>
+        </div>
+      </div>
+      <div className="portfolio-item">
+        <div className="project-details">
+          <h3>MyBio - Site currently viewing</h3>
+          <p>This website is a bio/portfolio website that showcases my projects and websites!</p>
+          <a href="https://thymestersbio.pages.dev" target="_blank" rel="noreferrer">My Bio Site</a>
+        </div>
+      </div>
+      <div className="portfolio-item">
+        <div className="project-details">
+          <h3>E-Z Movie Search</h3>
+          <p>This website is a movie search DB using TMDB's API for movie searches. The website will allow users to search movies and display the film along with the cover 
+            photo of the film with Titles, Short Descriptions, and a list of the main actors on the modal. </p>
+          <a href="https://ezmoviesearch.pages.dev" target="_blank" rel="noreferrer">E-Z Movie Search</a>
+        </div>
+      </div>
+      <div className="portfolio-item">
+        <div className="project-details">
+          <h3>NewsAPI Website</h3>
+          <p>A website using NewsAPI that has website animations/particle affects. </p>
+          <a href="https://github.com/Thymester/PAnimated-NewsAPI-Website" target="_blank" rel="noreferrer">NewsAPI Website</a>
+        </div>
+      </div>
+      <div className="portfolio-item">
+        <div className="project-details">
+          <h3>Evolution of Web Design</h3>
+          <p>This is just a simple website that shows some, but not a lot, of the differences between a more retro style and modern website.</p>
+          <a href="https://evolution-of-web-design.pages.dev" target="_blank" rel="noreferrer">Evolution of Web Design</a>
+        </div>
+      </div>
+      <div className="portfolio-item">
+        <div className="project-details">
+          <h3>FlaskChat</h3>
+          <p>This is just a simple Flask web chat website that uses SocketIO.</p>
+          <a href="https://github.com/Thymester/FlaskChat" target="_blank" rel="noreferrer">Flask Chat</a>
+        </div>
+      </div>
+      <div className="portfolio-item">
+        <div className="project-details">
+          <h3>ToDo Site</h3>
+          <p>This is a simple ToDo website that allows users to make "ToDos" which allow the user to then mark as complete once the ToDo has been done.</p>
+          <a href="https://github.com/Thymester/Todo-Site" target="_blank" rel="noreferrer">ToDo Site</a>
+        </div>
+      </div>
+      <div className="portfolio-item">
+        <div className="project-details">
+          <h3>BudgetApp Website</h3>
+          <p>This is a super simple, yet somewhat unfinished, budget site that allows the user to track their pay periods and used money for said period.</p>
+          <a href="https://github.com/Thymester/BudgetApp" target="_blank" rel="noreferrer">BudgetApp</a>
+        </div>
+      </div>
+      <h2>My Projects</h2>
       <div className="portfolio-item">
         <div className="project-details">
           <h3>MrFish</h3>
