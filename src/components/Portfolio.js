@@ -103,7 +103,8 @@ function Projects() {
       <div className="portfolio-item">
         <div className="project-details">
           <h3>SafeNotes</h3>
-          <p>SafeNotes is a secure note-taking app built using React and Firebase.</p>
+          <p>A notes application which requires users to login to access their notes. There is no encryption; however, the app overrides the entries file when you close the app, and it remains overwrote 
+            until the user logins with the password which they set. </p>
           <a href="https://github.com/Thymester/SafeNotes" target="_blank" rel="noreferrer">SafeNotes</a>
         </div>
       </div>
