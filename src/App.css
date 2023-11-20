@@ -9,6 +9,19 @@
   --text-color: white;
 }
 
+a:link {
+  text-decoration: none;
+  text-shadow: 0 0 2.5px white;
+  padding: 2px;
+}
+
+a:visited {
+  text-decoration: none;
+  text-shadow: 0 0 2.5px white;
+  padding: 2px;
+}
+
+
 body {
   font-family: 'Roboto', sans-serif;
   margin: 0;

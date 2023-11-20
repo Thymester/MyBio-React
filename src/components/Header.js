@@ -8,11 +8,6 @@ function Header() {
       <h1>Thymester's Bio</h1>
       <ThemeToggle />
       <nav>
-        <ul>
-          <li><a href="#about">About</a></li>
-          <li><a href="#portfolio">Portfolio</a></li>
-          <li><a href="#resume">Resume</a></li>
-        </ul>
       </nav>
     </header>
   );
