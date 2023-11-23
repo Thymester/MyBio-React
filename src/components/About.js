@@ -17,7 +17,7 @@ function About() {
       </p>
       <p>
         You can check out my GitHub profile:
-        <a href="https://github.com/Thymester" target="_blank" rel="noreferrer">
+        <a href="https://github.com/Thymester" target="_blank">
           Thymester
         </a>
         <p>
