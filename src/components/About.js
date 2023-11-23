@@ -28,7 +28,10 @@ function About() {
             Student at: Madison Area Technical College
           </li>
           <li>
-            Formerly: Commercial Truck Driver
+            Currently: Commercial Truck Driver
+          </li>
+          <li>
+            Company: <a href="https://www.swifttrans.com/" target="_blank">Swift Transportation</a>
           </li>
           <li>
             How to reach me on Discord: agony8602
