@@ -17,7 +17,7 @@ function About() {
       </p>
       <p>
         You can check out my GitHub profile:
-        <a href="https://github.com/Thymester" target="_blank">
+        <a href="https://github.com/Thymester" target="_blank" rel="noreferrer">
           Thymester
         </a>
         <p>
@@ -31,7 +31,7 @@ function About() {
             Currently: Commercial Truck Driver
           </li>
           <li>
-            Company: <a href="https://www.swifttrans.com/" target="_blank">
+            Company: <a href="https://www.swifttrans.com/" target="_blank" rel="noreferrer">
               Swift Transportation
             </a>
           </li>
