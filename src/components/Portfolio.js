@@ -15,6 +15,13 @@ function Projects() {
       </div>
       <div className="portfolio-item">
         <div className="project-details">
+          <h3>TM Photography Portfolio</h3>
+          <p>This is a website that I am using to upload some photography from recent hikes/trips I have been on.</p>
+          <a href="https://tm-photography.pages.dev/" target="_blank" rel="noreferrer">TM Photography</a>
+        </div>
+      </div>
+      <div className="portfolio-item">
+        <div className="project-details">
           <h3>VPN Tier List - Clone</h3>
           <p>This website is a clone of the <a href="https://vpntierlist.com" target="_blank" rel="noreferrer"> VPN Tier List</a> website. The original website is owned
           by a individual of whom I know and whom also knows of this clone being made.</p>
