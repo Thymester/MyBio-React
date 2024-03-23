@@ -22,17 +22,17 @@ function About() {
         </a>
         <p>
           <li>
-            Studies: Associates Degree in IT-Web Software Developer
+            Studies: Associates Degree in CIT-Computer Networking/CIT-Computer Programming
           </li>
           <li>
-            Student at: Madison Area Technical College
+            Student at: Gogebic Community College
           </li>
           <li>
-            Currently: Commercial Truck Driver
+            Currently: Mobile Expert
           </li>
           <li>
-            Company: <a href="https://www.swifttrans.com/" target="_blank" rel="noreferrer">
-              Swift Transportation
+            Company: <a href="https://www.att.com/" target="_blank" rel="noreferrer">
+              AT&T
             </a>
           </li>
           <li>
