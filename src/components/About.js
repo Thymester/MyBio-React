@@ -28,7 +28,7 @@ function About() {
             Student at: Gogebic Community College
           </li>
           <li>
-            Currently: Mobile Expert
+            Currently: Sales Representative
           </li>
           <li>
             Company: <a href="https://www.att.com/" target="_blank" rel="noreferrer">
