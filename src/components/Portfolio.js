@@ -41,6 +41,45 @@ function Projects() {
 
   return (
     <div className="section" id="portfolio">
+      <h2>My Websites</h2>
+      <div className="portfolio-item">
+        <h3>SatyrnVPN</h3>
+        <p>A retired VPN project I had ran. This was a privacy focused VPN in partnership with Horizon.Pics</p>
+        <a href="https://satyrnvpn.pages.dev/" target="_blank" rel="noreferrer">View Website</a>
+      </div>
+      <div className="portfolio-item">
+        <h3>VPN Tier List</h3>
+        <p>A clone of Tom Sparks VPN Tier List, this was meant as a fun little side project.</p>
+        <a href="https://vpntierlist.pages.dev/" target="_blank" rel="noreferrer">View Website</a>
+      </div>
+      <div className="portfolio-item">
+        <h3>TM Photography</h3>
+        <p>Feel the passion, see the stories, this is more than just a portfolio; it's an invitation to explore, connect, and make memories last forever.</p>
+        <br></br>
+        <p>This is a photography portfolio of mine!</p>
+        <a href="https://tm-photography.pages.dev/" target="_blank" rel="noreferrer">View Website</a>
+      </div>
+      <div className="portfolio-item">
+        <h3>E-Z Movie Search</h3>
+        <p>E-Z Movie Search: Explore movies and TV shows with ease!</p>
+        <a href="https://ezmoviesearch.pages.dev/" target="_blank" rel="noreferrer">View Website</a>
+      </div>
+      <div className="portfolio-item">
+        <h3>Evolution of Web Design</h3>
+        <p>Journey through the transformation of web pages over the years.</p>
+        <a href="https://evolution-of-web-design.pages.dev/" target="_blank" rel="noreferrer">View Website</a>
+      </div>
+      <div className="portfolio-item">
+        <h3>Lua Maker</h3>
+        <p>A FiveM resource lua maker website designed to make templates for FiveM scripts.</p>
+        <a href="https://luamaker.pages.dev/" target="_blank" rel="noreferrer">View Website</a>
+      </div>
+      <div className="portfolio-item">
+        <h3>Currency Calculator</h3>
+        <p>A currency calculator meant to calculate the total currency based on inputted bill and coin types; also outputs the total amount of each bill type.</p>
+        <a href="https://currencycalc.pages.dev/" target="_blank" rel="noreferrer">View Website</a>
+      </div>
+      <br></br>
       <h2>My GitHub Repositories ({totalCount})</h2>
       {repositories.map(repo => (
         <div className="portfolio-item" key={repo.id}>
