@@ -22,17 +22,14 @@ function About() {
         </a>
         <p>
           <li>
-            Studies: Associates Degree in CIT-Computer Networking/CIT-Computer Programming
+            Degree: Associates Degree in CIT-Computer Networking/CIT-Computer Programming
           </li>
           <li>
-            Student at: Gogebic Community College
+            Currently: Commercial Truck Driver
           </li>
           <li>
-            Currently: Sales Representative
-          </li>
-          <li>
-            Company: <a href="https://www.att.com/" target="_blank" rel="noreferrer">
-              AT&T
+            Company: <a href="https://www.swifttrans.com/" target="_blank" rel="noreferrer">
+              Swift Transportation
             </a>
           </li>
           <li>
