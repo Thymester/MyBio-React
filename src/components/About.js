@@ -28,8 +28,8 @@ function About() {
             Currently: Commercial Truck Driver
           </li>
           <li>
-            Company: <a href="https://www.swifttrans.com/" target="_blank" rel="noreferrer">
-              Swift Transportation
+            Company: <a href="https://www.golamers.com/" target="_blank" rel="noreferrer">
+              Lamers Bus Lines
             </a>
           </li>
           <li>
