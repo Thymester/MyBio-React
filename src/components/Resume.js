@@ -4,15 +4,19 @@ function Resume() {
   return (
     <div className="resume-section" id="resume">
       <h2>Work Experience</h2>
+      <h6>Not all my experience is listed below.</h6>
       <div className="resume-container">
       <div className='resume-entry'>
-          <h3>Mobile Expert - AT&T</h3>
-          <p>Houghton, MI - 03/2024 - Present</p>
+          <h3>Motorcoach Operator & Part-Time School Bus Driver - Lamers Bus Lines</h3>
+          <p>Houghton, MI - 07/2024 - Present</p>
           <p>My location: Houghton, MI</p>
           <ul>
-            <li>Mastery in analyzing customers' needs</li>
-            <li>Identify and customize whole packages of wireless/voice/data products and services</li>
-            <li>Expert in uncovering customers' needs and have a passion to educate, demonstrate and recommend device and service solutions</li>
+            <li>Operates transit vehicles on assigned routes maintaining established time 
+                schedules.</li>
+            <li>Performs pre-operation safety inspections; requests servicing and repairs verbally 
+                and in writing as necessary.</li>
+            <li>Maintains schedules and operates transit equipment in a safe and efficient manner.  
+                Maintains all required passenger and vehicle records.</li>
           </ul>
       </div>
       <div className="resume-entry">
@@ -36,7 +40,7 @@ function Resume() {
         </div>
         <div className='resume-entry'>
           <h3>Commercial Truck Driver - Swift Transportation</h3>
-          <p>Phoenix, Arizona - 10/2023 - 02/2024</p>
+          <p>Phoenix, Arizona - 10/2023 - 06/2024</p>
           <p>My location: Houghton, MI</p>
           <ul>
             <li>Assure truck is up to DOT standards via a Pre-Trip inspection</li>
