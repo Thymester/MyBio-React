@@ -25,7 +25,7 @@ function About() {
             Degree: Associates Degree in CIT-Computer Networking/CIT-Computer Programming
           </li>
           <li>
-            Currently: Commercial Truck Driver
+            Currently: Motorcoach Operator & Part-Time Bus Driver
           </li>
           <li>
             Company: <a href="https://www.golamers.com/" target="_blank" rel="noreferrer">
