@@ -133,11 +133,43 @@ nav ul li a {
   padding: 2rem;
   margin: 2rem auto;
   border-radius: 10px;
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.1);
+}
+
+.game-section {
+  background-color: var(--background-color);
+  padding: 2rem;
+  margin: 2rem auto;
+  border-radius: 10px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 .section:hover {
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);
+}
+
+.section-about {
+  background-color: var(--background-color);
+  padding: 2rem;
+  margin: 2rem auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.section-about:hover {
+  box-shadow: 0 12px 15px rgba(0, 0, 0, 0.2);
+}
+
+.game-section {
+  background-color: var(--background-color);
+  padding: 2rem;
+  margin: 2rem auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.game-section:hover {
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);
 }
 
 .portfolio-item {
