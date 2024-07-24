@@ -3,10 +3,11 @@ import React from 'react';
 
 function About() {
   return (
-    <div className="game-section" id="about">
-      <div id="game-section">
+    <div className="section-about" id="about">
+      <div className="game-section" id="game-section">
         <h2>Idle Game</h2>
         <iframe
+          className="game-iframe"
           src="https://i.simmer.io/@Thymester/idle-slayer"
           title="Idle Slayer Game"
           style={{ width: '960px', height: '600px' }}
