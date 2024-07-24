@@ -8,6 +8,7 @@ function About() {
         <h2>Idle Game</h2>
         <iframe
           src="https://i.simmer.io/@Thymester/idle-slayer"
+          title="Idle Slayer Game"
           style={{ width: '960px', height: '600px' }}
         ></iframe>
         <p>
