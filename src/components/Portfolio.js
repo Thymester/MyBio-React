@@ -42,6 +42,11 @@ function Projects() {
   return (
     <div className="section" id="portfolio">
       <h2>My Websites</h2>
+       <div className="portfolio-item">
+        <h3>Satyrn VPN Tier List</h3>
+        <p>A VPN Tier List with 5 years of research and commitment put into it!</p>
+        <a href="https://satyrnvpntierlist.pages.dev/" target="_blank" rel="noreferrer">View Website</a>
+      </div>
       <div className="portfolio-item">
         <h3>SatyrnVPN</h3>
         <p>A retired VPN project I had ran. This was a privacy focused VPN in partnership with Horizon.Pics</p>
