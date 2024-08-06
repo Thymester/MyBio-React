@@ -22,7 +22,7 @@ function About() {
           dominance over the battlefield.
         </p>
         <h3>Features</h3>
-        <ul>
+        <ul className="left-align">
           <li>Attack Speed upgrades</li>
           <li>Attack Damage upgrades</li>
           <li>Skills upgrades - Multi-target attacks up to eight attacks at random enemies at once.</li>
@@ -51,7 +51,7 @@ function About() {
             Thymester
           </a>
         </p>
-        <ul>
+        <ul className="left-align">
           <li>Degree: Associates Degree in CIT-Computer Networking/CIT-Computer Programming</li>
           <li>Currently: Motorcoach Operator & Part-Time Bus Driver</li>
           <li>
