@@ -41,6 +41,12 @@ function Projects() {
 
   return (
     <div className="section" id="portfolio">
+      <h2>Paid Projects</h2>
+      <div className="portfolio-item">
+        <h3>VPN Guides</h3>
+        <p>Bringing true and honest VPN reviews to you!</p>
+        <a href="https://vpnguides.pages.dev/" target="_blank" rel="noreferrer">View Website</a>
+      </div>
       <h2>My Websites</h2>
        <div className="portfolio-item">
         <h3>Satyrn VPN Tier List</h3>

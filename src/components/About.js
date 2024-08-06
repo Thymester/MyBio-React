@@ -10,7 +10,7 @@ function About() {
           className="game-iframe"
           src="https://i.simmer.io/@Thymester/idle-slayer"
           title="Idle Slayer Game"
-          style={{ width: '960px', height: '600px' }}
+          style={{ width: '900px', height: '570px' }}
         ></iframe>
         <p>
           Armed with only your trusty blade, you embark on a quest to conquer hordes of enemies to earn gold. With each victory, you accumulate wealth to enhance your attack power 
