@@ -59,11 +59,6 @@ function Projects() {
         <a href="https://satyrnvpn.pages.dev/" target="_blank" rel="noreferrer">View Website</a>
       </div>
       <div className="portfolio-item">
-        <h3>VPN Tier List</h3>
-        <p>A clone of Tom Sparks VPN Tier List, this was meant as a fun little side project.</p>
-        <a href="https://vpntierlist.pages.dev/" target="_blank" rel="noreferrer">View Website</a>
-      </div>
-      <div className="portfolio-item">
         <h3>TM Photography</h3>
         <p>Feel the passion, see the stories, this is more than just a portfolio; it's an invitation to explore, connect, and make memories last forever.</p>
         <br></br>
